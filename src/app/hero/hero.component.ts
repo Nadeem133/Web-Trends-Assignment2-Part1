@@ -3,6 +3,7 @@ import { Hero } from '../hero';
 import { HeroService } from '../hero.service';
 
 
+//Hero component added
 
 @Component({
   selector: 'app-hero',
